@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Meeting4-Grocery-List</string>
+    <string name="action_settings">Settings</string>
+    <string name="input_hint">Input Grocery Item</string>
+    <string name="button_add">button_add</string>
+    <string name="item_name">item_name</string>
+</resources>
